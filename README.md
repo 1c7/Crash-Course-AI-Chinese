@@ -27,9 +27,26 @@
 * 速速束束木木
 * 糖醋陈皮 - [Github](https://github.com/1c7/), [微博](https://www.weibo.com/u/2004104451)
 * 이진(Eazin)
+* 国土安全局
+* MochaMilk
+* wAtcher
+* Pr1p   
+
+(此列表会更新)
 
 ## 视频来源
-https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=6
+https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=1
+
+![视频来源截图](image/yt.jpg)
 
 ## 时间
 开始翻译: 2019年11月   
+
+## 计划
+因为共15集，不算太多，工作量还可以接受，预计11月12月可以翻译完成，在2020年之前翻译完全部15集     
+
+## Crash Course 字幕组信息  
+
+![字幕组截图](image/qq.jpg)    
+QQ群: 305631757    
+不管是围观还是有兴趣翻译都欢迎加群
