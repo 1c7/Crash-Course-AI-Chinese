@@ -1,6 +1,5 @@
-# 人工智能速成课
-[合集地址 - 进度:4/15](https://www.bilibili.com/video/av75822322/)  
-这里是 Crash Course 字幕组翻译人工智能速成课的目录   
+# 人工智能速成课 - 2019年新系列,共15集
+[B站合集播放地址(进度:4/15)](https://www.bilibili.com/video/av75822322/)  
 
 ![题图](image/img.jpg)
 
