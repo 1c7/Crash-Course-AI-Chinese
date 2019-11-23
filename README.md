@@ -1,4 +1,4 @@
-# 人工智能速成课 - 2019年新系列,共15集
+# 人工智能速成课 - 2019年新系列
 [B站合集播放地址](https://www.bilibili.com/video/av75822322/)  
 
 ![题图](image/img.jpg)
@@ -18,7 +18,7 @@
 * 12 AI Playing Games
 * 13 Let's make an AI that destroys video games
 * 14 Humans and AI working together
-* 15. How YouTube knows what you should watch
+* 15 How YouTube knows what you should watch
 
 ## 感谢所有参与翻译的人
 排名不分先后   
@@ -32,8 +32,6 @@
 * wAtcher
 * Pr1p   
 
-(此列表会更新)
-
 ## 视频来源
 https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=1
 
@@ -46,4 +44,4 @@ https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51pa
 
 ![字幕组截图](image/qq.jpg)    
 QQ群: 305631757    
-不管是围观还是有兴趣翻译都欢迎加群
+围观/翻译都欢迎加群
