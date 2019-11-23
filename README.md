@@ -10,14 +10,15 @@
 * [4 - 训练神经网络 | Training Neural Networks](https://www.bilibili.com/video/av75892466)
 * [5 - 如何让 AI 看懂你写的字 | How to make an AI read your handwriting (LAB)](https://www.bilibili.com/video/av76635688)
 * 6 Unsupervised Learning
-* 7 Natural Language Processing: Crash Course AI #7
-* 8 Make an AI sound like a YouTuber (LAB): Crash Course AI #8
-* 9 Reinforcement Learning: Crash Course AI #9
-* 10 Symbolic AI: Crash Course AI #10
-* 11 Robotics: Crash Course AI #11
-* 12 AI Playing Games: Crash Course AI #12
-* 13 Let's make an AI that destroys video games: Crash Course AI #13
-* 14 Humans and AI working together: Crash Course AI #14
+* 7 Natural Language Processing
+* 8 Make an AI sound like a YouTuber (LAB)
+* 9 Reinforcement Learning
+* 10 Symbolic AI
+* 11 Robotic
+* 12 AI Playing Games
+* 13 Let's make an AI that destroys video games
+* 14 Humans and AI working together
+* 15. How YouTube knows what you should watch
 
 ## 感谢所有参与翻译的人
 排名不分先后   
