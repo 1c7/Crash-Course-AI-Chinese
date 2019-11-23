@@ -1,5 +1,5 @@
 # 人工智能速成课 - 2019年新系列,共15集
-[B站合集播放地址(进度:4/15)](https://www.bilibili.com/video/av75822322/)  
+[B站合集播放地址](https://www.bilibili.com/video/av75822322/)  
 
 ![题图](image/img.jpg)
 
@@ -8,7 +8,7 @@
 * [2 - 监督式学习 | Supervised Learning](https://www.bilibili.com/video/av75707591/)
 * [3 - 神经网络和深度学习 | Neural Networks and Deep Learning](https://www.bilibili.com/video/av75821839/)
 * [4 - 训练神经网络 | Training Neural Networks](https://www.bilibili.com/video/av75892466)
-* 5 How to make an AI read your handwriting (LAB)
+* [5 - 如何让 AI 看懂你写的字 | How to make an AI read your handwriting (LAB)](https://www.bilibili.com/video/av76635688)
 * 6 Unsupervised Learning
 * 7 Natural Language Processing: Crash Course AI #7
 * 8 Make an AI sound like a YouTuber (LAB): Crash Course AI #8
