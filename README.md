@@ -42,9 +42,6 @@ https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51pa
 ## 时间
 开始翻译: 2019年11月   
 
-## 计划
-因为共15集，不算太多，工作量还可以接受，预计11月12月可以翻译完成，在2020年之前翻译完全部15集     
-
 ## Crash Course 字幕组信息  
 
 ![字幕组截图](image/qq.jpg)    
