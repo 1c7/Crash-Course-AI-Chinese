@@ -9,6 +9,7 @@
 * [3 - 神经网络和深度学习 | Neural Networks and Deep Learning](https://www.bilibili.com/video/av75821839/)
 * [4 - 训练神经网络 | Training Neural Networks](https://www.bilibili.com/video/av75892466)
 * [5 - 如何让 AI 看懂你写的字 | How to make an AI read your handwriting (LAB)](https://www.bilibili.com/video/av76635688)
+  * [补充资料1: Inside a Neural Network - Computerphile](https://www.youtube.com/watch?v=BFdMrDOx_CM)
 * 6 Unsupervised Learning
 * 7 Natural Language Processing
 * 8 Make an AI sound like a YouTuber (LAB)
