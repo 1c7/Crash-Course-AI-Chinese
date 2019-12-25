@@ -19,7 +19,11 @@
 * 12 AI Playing Games
 * 13 Let's make an AI that destroys video games
 * 14 Humans and AI working together
-* 15 How YouTube knows what you should watch
+* 15 How YouTube knows what you should watch    
+* 16 Let's make a movie recommendation system
+* 17 Web Search
+* 18 Algorithmic Bias and Fairness
+* 19 Cats Vs Dogs? Let's make an AI to settle this
 
 ## 感谢所有参与翻译的人
 排名不分先后   
