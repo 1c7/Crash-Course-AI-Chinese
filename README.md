@@ -24,6 +24,7 @@
 * 17 Web Search
 * 18 Algorithmic Bias and Fairness
 * 19 Cats Vs Dogs? Let's make an AI to settle this
+* 20 The Future of Artificial Intelligence
 
 ## 感谢所有参与翻译的人
 排名不分先后   
