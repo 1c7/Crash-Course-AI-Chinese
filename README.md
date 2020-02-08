@@ -16,7 +16,7 @@
 * 9 Reinforcement Learning
 * 10 Symbolic AI
 * 11 Robotic
-* 12 AI Playing Games
+* [12 - 人工智能玩游戏 | AI Playing Games](https://www.bilibili.com/video/av87417510)
 * 13 Let's make an AI that destroys video games
 * 14 Humans and AI working together
 * 15 How YouTube knows what you should watch    
